@@ -12,18 +12,25 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Ensure Profile Directory Exists
+        run: mkdir -p profile
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: tamjid-ahsan
           outputs: |
-            snake.svg
-            snake-dark.svg?palette=github-dark
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVG to main
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./profile
-          publish_branch: main
-          keep_files: true
+      - name: Commit and Push Snake Assets
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/snake.svg profile/snake-dark.svg
+          git commit -m "chore: update contribution snake animation in profile/ [skip ci]" || exit 0
+          git pull --rebase origin main
+          git push origin main
