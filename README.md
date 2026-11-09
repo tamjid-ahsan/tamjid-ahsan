@@ -129,7 +129,7 @@
   <!-- GitHub Profile Trophies -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/trophies.svg" alt="Tamjid's GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" alt="Contribution Snake" />
 </div>
 
 
