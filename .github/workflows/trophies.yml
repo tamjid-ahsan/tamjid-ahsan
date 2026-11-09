@@ -102,7 +102,7 @@ jobs:
           {cards_svg}
           </svg>"""
 
-          with open("trophies.svg", "w", encoding="utf-8") as f:
+          with open("path/trophies.svg", "w", encoding="utf-8") as f:
               f.write(svg_content)
           print("trophies.svg generated successfully!")
           EOF
@@ -111,7 +111,7 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add trophies.svg
+          git add path/trophies.svg
           git commit -m "chore: update trophies.svg" -a || exit 0
           git pull --rebase origin main
           git push origin main

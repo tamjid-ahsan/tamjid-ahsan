@@ -9,9 +9,10 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <!-- <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+    <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge//tamjidahsan-0A66C2?style=social&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxjaXJjbGUgY3g9IjUuMiIgY3k9IjUuMiIgcj0iMi4yIiBmaWxsPSIjRkZGRkZGIi8+PHJlY3QgeD0iMy41IiB5PSI5LjUiIHdpZHRoPSIzLjQiIGhlaWdodD0iMTEuNSIgZmlsbD0iI0ZGRkZGRiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMi40IDkuNWgtMy40djExLjVoMy40di02YzAtMS43LjktMy4yIDIuNy0zLjIgMS43IDAgMi40IDEuMyAyLjQgMy4ydjZIMjF2LTYuNWMwLTMuNS0xLjktNS4zLTQuNS01LjMtMi4xIDAtMy4yIDEuMi0zLjcgMi4xbC0uNC0xLjh6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="mailto:tamz888@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:tamz888@yahoo.com"><img src="https://img.shields.io/badge/tamz888@yahoo.com-D14836?style=social&logo=gmail" alt="Email" /></a>
 </p>
 
 
@@ -35,9 +36,9 @@
 #### ☁️ Cloud Platforms & Architecture
 <p align="left">
   <!-- AWS -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwMCI+PHBhdGggZmlsbD0iIzIzMkYzRSIgZD0iTTE4MS44IDk2LjlsLTI1LjcgMTA3LjFoLTIzLjdsLTE2LjYtNzUuNy0xNi41IDc1LjdIOTUuOEw3MC4yIDk2LjloMjMuN2wxNC44IDcyLjEgMTUuMS03Mi4xaDI0LjFsMTUuMiA3Mi4xIDE0LjgtNzIuMWgyMy45ek02Mi4zIDE2Ni41Yy0zLjUtMy42LTgtNS40LTEzLjYtNS40LTEwLjMgMC0xNS41IDcuNi0xNS41IDIyLjggMCAxNC44IDUuMyAyMi4yIDE1LjkgMjIuMiA1LjcgMCAxMC4xLTIuMiAxMy4yLTYuNnY2LjhjLTYuMiA1LjgtMTQuMiA4LjgtMjMuOSA4LjgtMTguNCAwLTI3LjYtMTEuNS0yNy42LTM0LjUgMC0yMy45IDkuMy0zNS45IDI3LjktMzUuOSAxMC4xIDAgMTggMy41IDI0LjEgMTAuNHYxMS4zem0xOTMuNy01OC44Yy04LjUgMC0xNS41IDItMjAuOSA2bDEuOSA4LjRjNC45LTMuOCAxMC44LTUuNyAxNy43LTUuNyA5LjkgMCAxNC44IDQuMyAxNC44IDEyLjggMCAyLjUtLjYgNC42LTEuOSA2LjItMy43IDQuNy05LjQgNi44LTE3LjIgNi4yLTE1LjctMS4yLTIzLjUgNy4xLTIzLjUgMjQuOSAwIDggMi40IDE0LjEgNy4zIDE4LjNzMTEuNiA2LjMgMjAuMiA2LjNjNi44IDAgMTMuMi0yLjcgMTkuMS04LjF2Ny4zaDE4LjVWMTMwYzAtMTQuOC04LjMtMjIuMy0yNS45LTIyLjN6bTcgNDIuNXYzLjJjLTQuNiA2LjEtMTAuNyA5LjEtMTguNSA5LjEtNS4zIDAtOS42LTEuNi0xMi45LTQuOC0zLjMtMy4yLTQuOS03LjYtNC45LTEzLjIgMC0xMS43IDUuOC0xNy41IDE3LjQtMTcuNSA2IDAgMTAuNiAxLjEgMTMuOCAzLjIgMy4yIDIuMSA0LjggNC45IDUuMSA4LjR6bTg3IDQ4LjRjLTguNS01LjgtMTUuMS0xMy40LTE5LjktMjIuNy00LjgtOS4zLTcuMi0xOS44LTcuMi0zMS41IDAtMTEuNyAyLjQtMjIuMiA3LjItMzEuNCA0LjgtOS4zIDExLjQtMTYuOCAxOS45LTIyLjYgOC41LTUuOCAxOC4yLTguNyAyOS4xLTguNyAxMC45IDAgMjAuNiAyLjkgMjkuMSA4LjcgOC41IDUuOCAxNS4xIDEzLjQgMTkuOSAyMi42IDQuOCA5LjIgNy4yIDE5LjcgNy4yIDMxLjQgMCAxMS43LTIuNCAyMi4yLTcuMiAzMS41LTQuOCA5LjMtMTEuNCAxNi45LTE5LjkgMjIuNy04LjUgNS44LTE4LjIgOC43LTI5LjEgOC43LTEwLjkgMC0yMC42LTIuOS0yOS4xLTguN3ptNDEuNy0yMC42YzUuMy00LjEgOS4zLTkuNyAxMi4xLTE2LjggMi44LTcuMSA0LjItMTQuOSA0LjItMjMuNCAwLTguNC0xLjQtMTYuMS00LjItMjMuMS0yLjgtNy02LjgtMTIuNi0xMi4xLTE2LjctNS4zLTQuMS0xMS42LTYuMi0xOC45LTYuMi03LjIgMC0xMy42IDIuMS0xOS4gNi4yLTUuNCA0LjEtOS40IDkuNy0xMi4yIDE2LjctMi44IDctNC4yIDE0LjctNC4yIDIzLjEgMCA4LjUgMS40IDE2LjMgNC4yIDIzLjQgMi44IDcuMSA2LjggMTIuNyAxMi4yIDE2LjggNS40IDQuMSAxMS44IDYuMiAxOS4wIDYuMiA3LjMgMCAxMy42LTIuMSAxOC45LTYuMnptODMuMi02M2gtMjMuNXYxMTYuOGgyMy41di0xMTYuOHoiLz48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMzg0LjUgMjM0LjljLTQ4LjYgMzUuOC0xMTkuNyA1NS4xLTE4MC43IDU1LjEtODUuNSAwLTE2Mi42LTMzLjItMjIwLjktODguNy00LjYtNC40LTEuMS0xMC4zIDQuNS03IDU5LjkgMzUuMyAxMzMuNiA1Ni41IDIwOS4zIDU2LjUgNTQuMSAwIDExNS4xLTE0LjcgMTY0LjEtNDQuNiA3LjUtNC42IDE0LjEgMy43IDcuNyA4Ljd6bTQ1LjItMTguM2MtNS41LTcuMS0zNi41LTMuMy01MC42LTEuNy00LjMgLjUtNC45LTQuMS0xLTYuOCAxMi42LTguOCA0MS4yLTIyLjkgNjIuNy04LjkgMTAuMyA2LjcgMTEuOCAxNi44IDUuMyAyNC41LTEzLjYgMTYuMS0zNi45IDMzLjctNTAuNyA0MS4yLTQuMiAyLjMtNy42LS42LTUuNC00LjYgNy4zLTEzLjYgMjgtMzMuNSA0MC4zLTQyLjF6Ii8+PC9zdmc+&logoColor=white" alt="AWS" />
   <!-- Google Cloud -->
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <!-- DigitalOcean -->
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   <!-- Serverless / Architecture tools -->
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <!-- <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> -->
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
 </p>
@@ -71,6 +72,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white" alt="GCS" />
 </p>
 
 #### 🐳 DevOps, Containers & Orchestration
@@ -96,7 +98,7 @@
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+  <!-- <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" /> -->
 </p>
 
 #### 🔍 Vector Databases & Semantic Search
@@ -104,7 +106,7 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Weaviate-00D47E?style=for-the-badge&logo=weaviate&logoColor=black" alt="Weaviate" />
+  <!-- <img src="https://img.shields.io/badge/Weaviate-00D47E?style=for-the-badge&logo=weaviate&logoColor=black" alt="Weaviate" /> -->
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
 
@@ -114,7 +116,7 @@
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
   <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" />
   <img src="https://img.shields.io/badge/vLLM-007ACC?style=for-the-badge&logo=linux&logoColor=white" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia Triton" />
+  <!-- <img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia Triton" /> -->
 </p>
 
 ---
@@ -151,14 +153,19 @@
 - 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,gcp,aws,docker,kubernetes,terraform,kafka,prometheus,lua,javascript,apple,windows,linux,git,anaconda,latex,md,postgres,mongo,vscode,sublime&theme=dark"/>
 - 📫 How to reach me: *Via LinkedIn or Email above*
 
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+  <!-- <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
   &nbsp;
 <img src="https://img.shields.io/badge/AWS-Data_Analytics_Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS DAP" />
+  &nbsp; -->
+  <img src="https://img.shields.io/badge/DataCamp-Data_Science_Professional-03EF62?style=flat&logo=datacamp&logoColor=white" alt="DC DSP" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DataCamp-Data_Science_Professional-03EF62?style=flat-square&logo=datacamp&logoColor=white" alt="DC DSP" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwMCI+PHBhdGggZmlsbD0iIzIzMkYzRSIgZD0iTTE4MS44IDk2LjlsLTI1LjcgMTA3LjFoLTIzLjdsLTE2LjYtNzUuNy0xNi41IDc1LjdIOTUuOEw3MC4yIDk2LjloMjMuN2wxNC44IDcyLjEgMTUuMS03Mi4xaDI0LjFsMTUuMiA3Mi4xIDE0LjgtNzIuMWgyMy45ek02Mi4zIDE2Ni41Yy0zLjUtMy42LTgtNS40LTEzLjYtNS40LTEwLjMgMC0xNS41IDcuNi0xNS41IDIyLjggMCAxNC44IDUuMyAyMi4yIDE1LjkgMjIuMiA1LjcgMCAxMC4xLTIuMiAxMy4yLTYuNnY2LjhjLTYuMiA1LjgtMTQuMiA4LjgtMjMuOSA4LjgtMTguNCAwLTI3LjYtMTEuNS0yNy42LTM0LjUgMC0yMy45IDkuMy0zNS45IDI3LjktMzUuOSAxMC4xIDAgMTggMy41IDI0LjEgMTAuNHYxMS4zem0xOTMuNy01OC44Yy04LjUgMC0xNS41IDItMjAuOSA2bDEuOSA4LjRjNC45LTMuOCAxMC44LTUuNyAxNy43LTUuNyA5LjkgMCAxNC44IDQuMyAxNC44IDEyLjggMCAyLjUtLjYgNC42LTEuOSA2LjItMy43IDQuNy05LjQgNi44LTE3LjIgNi4yLTE1LjctMS4yLTIzLjUgNy4xLTIzLjUgMjQuOSAwIDggMi40IDE0LjEgNy4zIDE4LjNzMTEuNiA2LjMgMjAuMiA2LjNjNi44IDAgMTMuMi0yLjcgMTkuMS04LjF2Ny4zaDE4LjVWMTMwYzAtMTQuOC04LjMtMjIuMy0yNS45LTIyLjN6bTcgNDIuNXYzLjJjLTQuNiA2LjEtMTAuNyA5LjEtMTguNSA5LjEtNS4zIDAtOS42LTEuNi0xMi45LTQuOC0zLjMtMy4yLTQuOS03LjYtNC45LTEzLjIgMC0xMS43IDUuOC0xNy41IDE3LjQtMTcuNSA2IDAgMTAuNiAxLjEgMTMuOCAzLjIgMy4yIDIuMSA0LjggNC45IDUuMSA4LjR6bTg3IDQ4LjRjLTguNS01LjgtMTUuMS0xMy40LTE5LjktMjIuNy00LjgtOS4zLTcuMi0xOS44LTcuMi0zMS41IDAtMTEuNyAyLjQtMjIuMiA3LjItMzEuNCA0LjgtOS4zIDExLjQtMTYuOCAxOS45LTIyLjYgOC41LTUuOCAxOC4yLTguNyAyOS4xLTguNyAxMC45IDAgMjAuNiAyLjkgMjkuMSA4LjcgOC41IDUuOCAxNS4xIDEzLjQgMTkuOSAyMi42IDQuOCA5LjIgNy4yIDE5LjcgNy4yIDMxLjQgMCAxMS43LTIuNCAyMi4yLTcuMiAzMS41LTQuOCA5LjMtMTEuNCAxNi45LTE5LjkgMjIuNy04LjUgNS44LTE4LjIgOC43LTI5LjEgOC43LTEwLjkgMC0yMC42LTIuOS0yOS4xLTguN3ptNDEuNy0yMC42YzUuMy00LjEgOS4zLTkuNyAxMi4xLTE2LjggMi44LTcuMSA0LjItMTQuOSA0LjItMjMuNCAwLTguNC0xLjQtMTYuMS00LjItMjMuMS0yLjgtNy02LjgtMTIuNi0xMi4xLTE2LjctNS4zLTQuMS0xMS42LTYuMi0xOC45LTYuMi03LjIgMC0xMy42IDIuMS0xOS4gNi4yLTUuNCA0LjEtOS40IDkuNy0xMi4yIDE2LjctMi44IDctNC4yIDE0LjctNC4yIDIzLjEgMCA4LjUgMS40IDE2LjMgNC4yIDIzLjQgMi44IDcuMSA2LjggMTIuNyAxMi4yIDE2LjggNS40IDQuMSAxMS44IDYuMiAxOS4wIDYuMiA3LjMgMCAxMy42LTIuMSAxOC45LTYuMnptODMuMi02M2gtMjMuNXYxMTYuOGgyMy41di0xMTYuOHoiLz48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMzg0LjUgMjM0LjljLTQ4LjYgMzUuOC0xMTkuNyA1NS4xLTE4MC43IDU1LjEtODUuNSAwLTE2Mi42LTMzLjItMjIwLjktODguNy00LjYtNC40LTEuMS0xMC4zIDQuNS03IDU5LjkgMzUuMyAxMzMuNiA1Ni41IDIwOS4zIDU2LjUgNTQuMSAwIDExNS4xLTE0LjcgMTY0LjEtNDQuNiA3LjUtNC42IDE0LjEgMy43IDcuNyA4Ljd6bTQ1LjItMTguM2MtNS41LTcuMS0zNi41LTMuMy01MC42LTEuNy00LjMgLjUtNC45LTQuMS0xLTYuOCAxMi42LTguOCA0MS4yLTIyLjkgNjIuNy04LjkgMTAuMyA2LjcgMTEuOCAxNi44IDUuMyAyNC41LTEzLjYgMTYuMS0zNi45IDMzLjctNTAuNyA0MS4yLTQuMiAyLjMtNy42LS42LTUuNC00LjYgNy4zLTEzLjYgMjgtMzMuNSA0MC4zLTQyLjF6Ii8+PC9zdmc+
+" alt="aws ssa"/>
   &nbsp;
-  <img scr="https://img.shields.io/badge/AWS-SSA-FF9900.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwMCI+PHBhdGggZmlsbD0iIzIzMkYzRSIgZD0iTTE4MS44IDk2LjlsLTI1LjcgMTA3LjFoLTIzLjdsLTE2LjYtNzUuNy0xNi41IDc1LjdIOTUuOEw3MC4yIDk2LjloMjMuN2wxNC44IDcyLjEgMTUuMS03Mi4xaDI0LjFsMTUuMiA3Mi4xIDE0LjgtNzIuMWgyMy45ek02Mi4zIDE2Ni41Yy0zLjUtMy42LTgtNS40LTEzLjYtNS40LTEwLjMgMC0xNS41IDcuNi0xNS41IDIyLjggMCAxNC44IDUuMyAyMi4yIDE1LjkgMjIuMiA1LjcgMCAxMC4xLTIuMiAxMy4yLTYuNnY2LjhjLTYuMiA1LjgtMTQuMiA4LjgtMjMuOSA4LjgtMTguNCAwLTI3LjYtMTEuNS0yNy42LTM0LjUgMC0yMy45IDkuMy0zNS45IDI3LjktMzUuOSAxMC4xIDAgMTggMy41IDI0LjEgMTAuNHYxMS4zem0xOTMuNy01OC44Yy04LjUgMC0xNS41IDItMjAuOSA2bDEuOSA4LjRjNC45LTMuOCAxMC44LTUuNyAxNy43LTUuNyA5LjkgMCAxNC44IDQuMyAxNC44IDEyLjggMCAyLjUtLjYgNC42LTEuOSA2LjItMy43IDQuNy05LjQgNi44LTE3LjIgNi4yLTE1LjctMS4yLTIzLjUgNy4xLTIzLjUgMjQuOSAwIDggMi40IDE0LjEgNy4zIDE4LjNzMTEuNiA2LjMgMjAuMiA2LjNjNi44IDAgMTMuMi0yLjcgMTkuMS04LjF2Ny4zaDE4LjVWMTMwYzAtMTQuOC04LjMtMjIuMy0yNS45LTIyLjN6bTcgNDIuNXYzLjJjLTQuNiA2LjEtMTAuNyA5LjEtMTguNSA5LjEtNS4zIDAtOS42LTEuNi0xMi45LTQuOC0zLjMtMy4yLTQuOS03LjYtNC45LTEzLjIgMC0xMS43IDUuOC0xNy41IDE3LjQtMTcuNSA2IDAgMTAuNiAxLjEgMTMuOCAzLjIgMy4yIDIuMSA0LjggNC45IDUuMSA4LjR6bTg3IDQ4LjRjLTguNS01LjgtMTUuMS0xMy40LTE5LjktMjIuNy00LjgtOS4zLTcuMi0xOS44LTcuMi0zMS41IDAtMTEuNyAyLjQtMjIuMiA3LjItMzEuNCA0LjgtOS4zIDExLjQtMTYuOCAxOS45LTIyLjYgOC41LTUuOCAxOC4yLTguNyAyOS4xLTguNyAxMC45IDAgMjAuNiAyLjkgMjkuMSA4LjcgOC41IDUuOCAxNS4xIDEzLjQgMTkuOSAyMi42IDQuOCA5LjIgNy4yIDE5LjcgNy4yIDMxLjQgMCAxMS43LTIuNCAyMi4yLTcuMiAzMS41LTQuOCA5LjMtMTEuNCAxNi45LTE5LjkgMjIuNy04LjUgNS44LTE4LjIgOC43LTI5LjEgOC43LTEwLjkgMC0yMC42LTIuOS0yOS4xLTguN3ptNDEuNy0yMC42YzUuMy00LjEgOS4zLTkuNyAxMi4xLTE2LjggMi44LTcuMSA0LjItMTQuOSA0LjItMjMuNCAwLTguNC0xLjQtMTYuMS00LjItMjMuMS0yLjgtNy02LjgtMTIuNi0xMi4xLTE2LjctNS4zLTQuMS0xMS42LTYuMi0xOC45LTYuMi03LjIgMC0xMy42IDIuMS0xOS4gNi4yLTUuNCA0LjEtOS40IDkuNy0xMi4yIDE2LjctMi44IDctNC4yIDE0LjctNC4yIDIzLjEgMCA4LjUgMS40IDE2LjMgNC4yIDIzLjQgMi44IDcuMSA2LjggMTIuNyAxMi4yIDE2LjggNS40IDQuMSAxMS44IDYuMiAxOS4wIDYuMiA3LjMgMCAxMy42LTIuMSAxOC45LTYuMnptODMuMi02M2gtMjMuNXYxMTYuOGgyMy41di0xMTYuOHoiLz48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMzg0LjUgMjM0LjljLTQ4LjYgMzUuOC0xMTkuNyA1NS4xLTE4MC43IDU1LjEtODUuNSAwLTE2Mi42LTMzLjItMjIwLjktODguNy00LjYtNC40LTEuMS0xMC4zIDQuNS03IDU5LjkgMzUuMyAxMzMuNiA1Ni41IDIwOS4zIDU2LjUgNTQuMSAwIDExNS4xLTE0LjcgMTY0LjEtNDQuNiA3LjUtNC42IDE0LjEgMy43IDcuNyA4Ljd6bTQ1LjItMTguM2MtNS41LTcuMS0zNi41LTMuMy01MC42LTEuNy00LjMgLjUtNC45LTQuMS0xLTYuOCAxMi42LTguOCA0MS4yLTIyLjkgNjIuNy04LjkgMTAuMyA2LjcgMTEuOCAxNi44IDUuMyAyNC41LTEzLjYgMTYuMS0zNi45IDMzLjctNTAuNyA0MS4yLTQuMiAyLjMtNy42LS42LTUuNC00LjYgNy4zLTEzLjYgMjgtMzMuNSA0MC4zLTQyLjF6Ii8+PC9zdmc+
-" alt="aws"/>
-&nbsp;
+  <img src="https://img.shields.io/badge/AWS-Data_Analytics_professional-FF9900.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwMCI+PHBhdGggZmlsbD0iIzIzMkYzRSIgZD0iTTE4MS44IDk2LjlsLTI1LjcgMTA3LjFoLTIzLjdsLTE2LjYtNzUuNy0xNi41IDc1LjdIOTUuOEw3MC4yIDk2LjloMjMuN2wxNC44IDcyLjEgMTUuMS03Mi4xaDI0LjFsMTUuMiA3Mi4xIDE0LjgtNzIuMWgyMy45ek02Mi4zIDE2Ni41Yy0zLjUtMy42LTgtNS40LTEzLjYtNS40LTEwLjMgMC0xNS41IDcuNi0xNS41IDIyLjggMCAxNC44IDUuMyAyMi4yIDE1LjkgMjIuMiA1LjcgMCAxMC4xLTIuMiAxMy4yLTYuNnY2LjhjLTYuMiA1LjgtMTQuMiA4LjgtMjMuOSA4LjgtMTguNCAwLTI3LjYtMTEuNS0yNy42LTM0LjUgMC0yMy45IDkuMy0zNS45IDI3LjktMzUuOSAxMC4xIDAgMTggMy41IDI0LjEgMTAuNHYxMS4zem0xOTMuNy01OC44Yy04LjUgMC0xNS41IDItMjAuOSA2bDEuOSA4LjRjNC45LTMuOCAxMC44LTUuNyAxNy43LTUuNyA5LjkgMCAxNC44IDQuMyAxNC44IDEyLjggMCAyLjUtLjYgNC42LTEuOSA2LjItMy43IDQuNy05LjQgNi44LTE3LjIgNi4yLTE1LjctMS4yLTIzLjUgNy4xLTIzLjUgMjQuOSAwIDggMi40IDE0LjEgNy4zIDE4LjNzMTEuNiA2LjMgMjAuMiA2LjNjNi44IDAgMTMuMi0yLjcgMTkuMS04LjF2Ny4zaDE4LjVWMTMwYzAtMTQuOC04LjMtMjIuMy0yNS45LTIyLjN6bTcgNDIuNXYzLjJjLTQuNiA2LjEtMTAuNyA5LjEtMTguNSA5LjEtNS4zIDAtOS42LTEuNi0xMi45LTQuOC0zLjMtMy4yLTQuOS03LjYtNC45LTEzLjIgMC0xMS43IDUuOC0xNy41IDE3LjQtMTcuNSA2IDAgMTAuNiAxLjEgMTMuOCAzLjIgMy4yIDIuMSA0LjggNC45IDUuMSA4LjR6bTg3IDQ4LjRjLTguNS01LjgtMTUuMS0xMy40LTE5LjktMjIuNy00LjgtOS4zLTcuMi0xOS44LTcuMi0zMS41IDAtMTEuNyAyLjQtMjIuMiA3LjItMzEuNCA0LjgtOS4zIDExLjQtMTYuOCAxOS45LTIyLjYgOC41LTUuOCAxOC4yLTguNyAyOS4xLTguNyAxMC45IDAgMjAuNiAyLjkgMjkuMSA4LjcgOC41IDUuOCAxNS4xIDEzLjQgMTkuOSAyMi42IDQuOCA5LjIgNy4yIDE5LjcgNy4yIDMxLjQgMCAxMS43LTIuNCAyMi4yLTcuMiAzMS41LTQuOCA5LjMtMTEuNCAxNi45LTE5LjkgMjIuNy04LjUgNS44LTE4LjIgOC43LTI5LjEgOC43LTEwLjkgMC0yMC42LTIuOS0yOS4xLTguN3ptNDEuNy0yMC42YzUuMy00LjEgOS4zLTkuNyAxMi4xLTE2LjggMi44LTcuMSA0LjItMTQuOSA0LjItMjMuNCAwLTguNC0xLjQtMTYuMS00LjItMjMuMS0yLjgtNy02LjgtMTIuNi0xMi4xLTE2LjctNS4zLTQuMS0xMS42LTYuMi0xOC45LTYuMi03LjIgMC0xMy42IDIuMS0xOS4gNi4yLTUuNCA0LjEtOS40IDkuNy0xMi4yIDE2LjctMi44IDctNC4yIDE0LjctNC4yIDIzLjEgMCA4LjUgMS40IDE2LjMgNC4yIDIzLjQgMi44IDcuMSA2LjggMTIuNyAxMi4yIDE2LjggNS40IDQuMSAxMS44IDYuMiAxOS4wIDYuMiA3LjMgMCAxMy42LTIuMSAxOC45LTYuMnptODMuMi02M2gtMjMuNXYxMTYuOGgyMy41di0xMTYuOHoiLz48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMzg0LjUgMjM0LjljLTQ4LjYgMzUuOC0xMTkuNyA1NS4xLTE4MC43IDU1LjEtODUuNSAwLTE2Mi42LTMzLjItMjIwLjktODguNy00LjYtNC40LTEuMS0xMC4zIDQuNS03IDU5LjkgMzUuMyAxMzMuNiA1Ni41IDIwOS4zIDU2LjUgNTQuMSAwIDExNS4xLTE0LjcgMTY0LjEtNDQuNiA3LjUtNC42IDE0LjEgMy43IDcuNyA4Ljd6bTQ1LjItMTguM2MtNS41LTcuMS0zNi41LTMuMy01MC42LTEuNy00LjMgLjUtNC45LTQuMS0xLTYuOCAxMi42LTguOCA0MS4yLTIyLjkgNjIuNy04LjkgMTAuMyA2LjcgMTEuOCAxNi44IDUuMyAyNC41LTEzLjYgMTYuMS0zNi45IDMzLjctNTAuNyA0MS4yLTQuMiAyLjMtNy42LS42LTUuNC00LjYgNy4zLTEzLjYgMjgtMzMuNSA0MC4zLTQyLjF6Ii8+PC9zdmc+
+  " alt="aws dap"/>
+  &nbsp;
 </div>
