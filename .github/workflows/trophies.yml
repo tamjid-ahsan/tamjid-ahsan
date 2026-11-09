@@ -1,4 +1,4 @@
-name: Generate GitHub Trophies
+name: Generate GitHub Achievements
 
 on:
   schedule:
@@ -12,18 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Fetch Trophies
-        run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=tamjid-ahsan&theme=tokyonight&no-frame=true&no-bg=true" -o trophies.svg
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add trophies.svg
-          git commit -m "chore: update trophies" -a || exit 0
-          git pull --rebase origin main
-          git push origin main
+      - name: Generate Achievements SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          config_timezone: Asia/Dhaka
