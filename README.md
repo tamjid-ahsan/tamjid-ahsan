@@ -128,11 +128,6 @@
 <div align="center">
   <!-- GitHub Profile Trophies -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" alt="Contribution Snake" />
-</div>
-
-
 
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
@@ -144,6 +139,10 @@
     <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Gists" />
   </p>
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" width="50%"alt="Contribution Snake" />
 </div>
 
 ---
