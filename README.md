@@ -169,3 +169,7 @@
 <img src="https://img.shields.io/badge/AWS-Data_Analytics_Professional-FF9900?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIj48cGF0aCBmaWxsPSIjMjMyRjNFIiBkPSJNMzU4IDE2NGMtOC01LTE1LTEzLTIwLTIyLTUtOS03LTIwLTctMzEgMC0xMiAyLTIyIDctMzEgNS05IDExLTE3IDIwLTIzIDgtNiAxOC05IDI5LTkgMTEgMCAyMCAzIDI5IDkgOCA2IDE1IDE0IDIwIDIzIDUgOSA3IDIwIDcgMzEgMCAxMS0yIDIyLTcgMzEtNSA5LTExIDE3LTIwIDIyLTggNi0xOSA5LTMwIDktMTAgMC0yMC0zLTI4LTl6Ii8%2BPHBhdGggZmlsbD0iI0ZGOTkwMCIgZD0iTTM4NCAyMzVjLTQ5IDM2LTEyMCA1NS0xODEgNTUtODYgMC0xNjMtMzMtMjIxLTg5LTUtNC0xLTEwIDUtNyA2MCAzNSAxMzQgNTYgMjA5IDU2IDU0IDAgMTE1LTE1IDE2NC00NSA4LTUgMTQgNCA4IDl6Ii8%2BPC9zdmc%2B" alt="AWS DAP" />
   &nbsp;
 </div>
+
+---
+
+<a href="https://madebyhuman.iamjarl.com"><img src="https://madebyhuman.iamjarl.com/badges/co-created-white.svg" alt="Co-created with AI" width="10%"></a>
