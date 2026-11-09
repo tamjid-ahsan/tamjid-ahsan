@@ -8,15 +8,34 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
+
       - name: Generate Trophies
         run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=tamjid-ahsan&theme=tokyonight&no-frame=true&no-bg=true" -o trophies.svg
+          docker run --rm \
+            -e GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" \
+            ryoma0611/github-profile-trophy:latest \
+            tamjid-ahsan \
+            --theme=tokyonight \
+            --no-frame=true \
+            --no-bg=true \
+            --margin-w=4 > trophies.svg
+
+      - name: Validate SVG
+        run: |
+          if ! grep -q "<svg" trophies.svg; then
+            echo "Error: Output is not a valid SVG!"
+            cat trophies.svg
+            exit 1
+          fi
+
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add trophies.svg
-          git commit -m "chore: update trophies" -a || exit 0
+          git commit -m "chore: update trophies.svg" -a || exit 0
           git push
