@@ -142,7 +142,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" width="50%"alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" width="50%" alt="Contribution Snake" />
+  <img src="./trophies.svg" width="50%" alt="Tamjid's GitHub Trophies" />
 </div>
 
 ---
@@ -154,5 +155,5 @@
 - 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,gcp,aws,docker,kafka,javascript,apple" />
 - 📫 How to reach me: *Via LinkedIn or Email above*
 
-<img src="https://trophies.deno.dev/?username=tamjid-ahsan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Tamjid's GitHub Trophies" />
+
 
