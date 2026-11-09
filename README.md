@@ -6,15 +6,13 @@
   <p>Passionate about building scalable applications, solving challenging problems, and exploring new technologies.</p>
 
   <!-- Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <p align="center">
+    <a href="https://linkedin.com/in/tamjid-ahsan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:tamz888@yahoo.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
   </p>
 
@@ -39,36 +37,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-  <!-- Interactive Activity Graph (Rock solid uptime) -->
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamjid-ahsan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Tamjid's Activity Graph" />
-  </div>
-
-<div align="center">
-  <img src="https://githubcard.com/tamjid-ahsan.svg" width="100%" alt="Activity Card..." />
-</div>
-
-  <br/><br/>
-
   <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tamjid-ahsan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-  <br/><br/>
-
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" alt="Tamjid's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
 </div>
 
-  <!-- Bulletproof Shields.io Live Stats (Direct GitHub API via Shields - Never hits rate limit crashes) -->
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/github/followers/tamjid-ahsan?label=Followers&style=for-the-badge&color=00ADB5&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Repos" />
     <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Gists" />
   </p>
 
 </div>
-
 
 ---
 
