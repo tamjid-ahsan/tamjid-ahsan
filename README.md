@@ -1,9 +1,8 @@
 <div align="center">
   <!-- Header Typing SVG (Reliable endpoint) -->
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+_+Problem+Solver" alt="Typing SVG" /> -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+and+Problem+Solver)](https://git.io/typing-svg)
-
+  <p>  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+and+Problem+Solver)](https://git.io/typing-svg)
+  </p>
   
   <p>Passionate about building scalable applications, solving challenging problems, and exploring new technologies.</p>
 
