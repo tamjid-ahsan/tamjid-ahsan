@@ -38,13 +38,11 @@
 
 <div align="center">
   <!-- GitHub Profile Trophies -->
-<div align="center">
-  <img src="./trophies.svg" alt="GitHub Trophies" />
-</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/trophies.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/trophies.svg" alt="Tamjid's GitHub Trophies" />
 </div>
+
 
 
   <!-- Streak Stats Card -->
