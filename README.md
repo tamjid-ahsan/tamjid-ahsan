@@ -1,5 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+%2526+Problem+Solver)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+%2526+Problem+Solver)](https://git.io/typing-svg)
 
   <!-- Header Typing SVG (Reliable endpoint) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
