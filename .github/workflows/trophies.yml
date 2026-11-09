@@ -1,36 +1,24 @@
-name: Generate GitHub Trophies
+name: Generate GitHub Metrics & Trophies
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Trophies
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Generate Achievements & Trophies
+        uses: lowlighter/metrics@latest
         with:
-          username: tamjid-ahsan
-          theme: tokyonight
-          no-frame: true
-          no-bg: true
-          margin-w: 4
-          output: trophies.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add trophies.svg
-          git commit -m "chore: update trophies.svg" -a || exit 0
-          git push
+          filename: trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Dhaka
