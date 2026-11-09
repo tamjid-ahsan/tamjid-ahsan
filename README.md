@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Header Typing SVG (Reliable endpoint) -->
+  <!-- Header Typing SVG -->
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tamjid+👋;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
@@ -9,12 +9,10 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <!-- <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
     <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge//tamjidahsan-0A66C2?style=social&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxjaXJjbGUgY3g9IjUuMiIgY3k9IjUuMiIgcj0iMi4yIiBmaWxsPSIjRkZGRkZGIi8+PHJlY3QgeD0iMy41IiB5PSI5LjUiIHdpZHRoPSIzLjQiIGhlaWdodD0iMTEuNSIgZmlsbD0iI0ZGRkZGRiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMi40IDkuNWgtMy40djExLjVoMy40di02YzAtMS43LjktMy4yIDIuNy0zLjIgMS43IDAgMi40IDEuMyAyLjQgMy4ydjZIMjF2LTYuNWMwLTMuNS0xLjktNS4zLTQuNS01LjMtMi4xIDAtMy4yIDEuMi0zLjcgMi4xbC0uNC0xLjh6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
     &nbsp;
     <a href="mailto:tamz888@yahoo.com"><img src="https://img.shields.io/badge/tamz888@yahoo.com-D14836?style=social&logo=gmail" alt="Email" /></a>
 </p>
-
 
 </div>
 
@@ -123,25 +121,28 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- GitHub Profile Trophies -->
-
-
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
-</div>
-
+<div>
   <p align="center">
     <img src="https://img.shields.io/github/followers/tamjid-ahsan?label=Followers&style=for-the-badge&color=00ADB5&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Repos" />
     <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Gists" />
   </p>
-
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/snake.svg" width="50%" alt="Contribution Snake" />
-  <img src="./trophies.svg" width="50%" alt="Tamjid's GitHub Trophies" />
+  <img src="profile/trophies.svg" width="60%" alt="GitHub Trophies" />
+  <img src="profile/top-langs.svg" width="40%" alt="top lang" />
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" width="50%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" width="50%"/>
+  <img alt="Contribution Snake" src="./profile/snake.svg" width="50%"/>
+</picture>
 </div>
 
 ---
@@ -151,15 +152,11 @@
 - 🔭 I’m currently working on: *Self Improvement*
 - 🌱 I’m currently learning: *Everything*
 - 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,gcp,aws,docker,kubernetes,terraform,kafka,prometheus,lua,javascript,apple,windows,linux,git,anaconda,latex,md,postgres,mongo,vscode,sublime&theme=dark"/>
-- 📫 How to reach me: *Via LinkedIn or Email above*
+- 📫 How to reach me: *Via [LinkedIn](https://linkedin.com/in/tamjidahsan) or [mail](mailto:tamz888@yahoo.com)*
 
 ---
 
 <div align="center">
-  <!-- <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
-  &nbsp;
-<img src="https://img.shields.io/badge/AWS-Data_Analytics_Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS DAP" />
-  &nbsp; -->
   <img src="https://img.shields.io/badge/DataCamp-Data_Science_Professional-03EF62?style=flat&logo=datacamp&logoColor=white" alt="DC DSP" />
   &nbsp;
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgMzAwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwMCI+PHBhdGggZmlsbD0iIzIzMkYzRSIgZD0iTTE4MS44IDk2LjlsLTI1LjcgMTA3LjFoLTIzLjdsLTE2LjYtNzUuNy0xNi41IDc1LjdIOTUuOEw3MC4yIDk2LjloMjMuN2wxNC44IDcyLjEgMTUuMS03Mi4xaDI0LjFsMTUuMiA3Mi4xIDE0LjgtNzIuMWgyMy45ek02Mi4zIDE2Ni41Yy0zLjUtMy42LTgtNS40LTEzLjYtNS40LTEwLjMgMC0xNS41IDcuNi0xNS41IDIyLjggMCAxNC44IDUuMyAyMi4yIDE1LjkgMjIuMiA1LjcgMCAxMC4xLTIuMiAxMy4yLTYuNnY2LjhjLTYuMiA1LjgtMTQuMiA4LjgtMjMuOSA4LjgtMTguNCAwLTI3LjYtMTEuNS0yNy42LTM0LjUgMC0yMy45IDkuMy0zNS45IDI3LjktMzUuOSAxMC4xIDAgMTggMy41IDI0LjEgMTAuNHYxMS4zem0xOTMuNy01OC44Yy04LjUgMC0xNS41IDItMjAuOSA2bDEuOSA4LjRjNC45LTMuOCAxMC44LTUuNyAxNy43LTUuNyA5LjkgMCAxNC44IDQuMyAxNC44IDEyLjggMCAyLjUtLjYgNC42LTEuOSA2LjItMy43IDQuNy05LjQgNi44LTE3LjIgNi4yLTE1LjctMS4yLTIzLjUgNy4xLTIzLjUgMjQuOSAwIDggMi40IDE0LjEgNy4zIDE4LjNzMTEuNiA2LjMgMjAuMiA2LjNjNi44IDAgMTMuMi0yLjcgMTkuMS04LjF2Ny4zaDE4LjVWMTMwYzAtMTQuOC04LjMtMjIuMy0yNS45LTIyLjN6bTcgNDIuNXYzLjJjLTQuNiA2LjEtMTAuNyA5LjEtMTguNSA5LjEtNS4zIDAtOS42LTEuNi0xMi45LTQuOC0zLjMtMy4yLTQuOS03LjYtNC45LTEzLjIgMC0xMS43IDUuOC0xNy41IDE3LjQtMTcuNSA2IDAgMTAuNiAxLjEgMTMuOCAzLjIgMy4yIDIuMSA0LjggNC45IDUuMSA4LjR6bTg3IDQ4LjRjLTguNS01LjgtMTUuMS0xMy40LTE5LjktMjIuNy00LjgtOS4zLTcuMi0xOS44LTcuMi0zMS41IDAtMTEuNyAyLjQtMjIuMiA3LjItMzEuNCA0LjgtOS4zIDExLjQtMTYuOCAxOS45LTIyLjYgOC41LTUuOCAxOC4yLTguNyAyOS4xLTguNyAxMC45IDAgMjAuNiAyLjkgMjkuMSA4LjcgOC41IDUuOCAxNS4xIDEzLjQgMTkuOSAyMi42IDQuOCA5LjIgNy4yIDE5LjcgNy4yIDMxLjQgMCAxMS43LTIuNCAyMi4yLTcuMiAzMS41LTQuOCA5LjMtMTEuNCAxNi45LTE5LjkgMjIuNy04LjUgNS44LTE4LjIgOC43LTI5LjEgOC43LTEwLjkgMC0yMC42LTIuOS0yOS4xLTguN3ptNDEuNy0yMC42YzUuMy00LjEgOS4zLTkuNyAxMi4xLTE2LjggMi44LTcuMSA0LjItMTQuOSA0LjItMjMuNCAwLTguNC0xLjQtMTYuMS00LjItMjMuMS0yLjgtNy02LjgtMTIuNi0xMi4xLTE2LjctNS4zLTQuMS0xMS42LTYuMi0xOC45LTYuMi03LjIgMC0xMy42IDIuMS0xOS4gNi4yLTUuNCA0LjEtOS40IDkuNy0xMi4yIDE2LjctMi44IDctNC4yIDE0LjctNC4yIDIzLjEgMCA4LjUgMS40IDE2LjMgNC4yIDIzLjQgMi44IDcuMSA2LjggMTIuNyAxMi4yIDE2LjggNS40IDQuMSAxMS44IDYuMiAxOS4wIDYuMiA3LjMgMCAxMy42LTIuMSAxOC45LTYuMnptODMuMi02M2gtMjMuNXYxMTYuOGgyMy41di0xMTYuOHoiLz48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMzg0LjUgMjM0LjljLTQ4LjYgMzUuOC0xMTkuNyA1NS4xLTE4MC43IDU1LjEtODUuNSAwLTE2Mi42LTMzLjItMjIwLjktODguNy00LjYtNC40LTEuMS0xMC4zIDQuNS03IDU5LjkgMzUuMyAxMzMuNiA1Ni41IDIwOS4zIDU2LjUgNTQuMSAwIDExNS4xLTE0LjcgMTY0LjEtNDQuNiA3LjUtNC42IDE0LjEgMy43IDcuNyA4Ljd6bTQ1LjItMTguM2MtNS41LTcuMS0zNi41LTMuMy01MC42LTEuNy00LjMgLjUtNC45LTQuMS0xLTYuOCAxMi42LTguOCA0MS4yLTIyLjkgNjIuNy04LjkgMTAuMyA2LjcgMTEuOCAxNi44IDUuMyAyNC41LTEzLjYgMTYuMS0zNi45IDMzLjctNTAuNyA0MS4yLTQuMiAyLjMtNy42LS42LTUuNC00LjYgNy4zLTEzLjYgMjgtMzMuNSA0MC4zLTQyLjF6Ii8+PC9zdmc+
