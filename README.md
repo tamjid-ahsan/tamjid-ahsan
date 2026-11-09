@@ -42,6 +42,10 @@
   <img src="./trophies.svg" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tamjid-ahsan/tamjid-ahsan/main/trophies.svg" alt="GitHub Trophies" />
+</div>
+
 
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
