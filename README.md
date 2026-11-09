@@ -9,13 +9,11 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/tamjid-ahsan" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tamz888@yahoo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+    <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:tamz888@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 
 </div>
 
@@ -150,7 +148,7 @@
 
 ### ⚡ Quick About Me
 
-- 🔭 I’m currently working on: *Improving*
+- 🔭 I’m currently working on: *Self Improvement*
 - 🌱 I’m currently learning: *Everything*
 - 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,gcp,aws,docker,kafka,javascript,apple" />
 - 📫 How to reach me: *Via LinkedIn or Email above*
