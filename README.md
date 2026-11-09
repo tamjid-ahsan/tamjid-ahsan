@@ -56,6 +56,10 @@
 
   <br/><br/>
 
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" alt="Tamjid's Streak Stats" />
+</div>
+
   <!-- Bulletproof Shields.io Live Stats (Direct GitHub API via Shields - Never hits rate limit crashes) -->
   <p>
     <img src="https://img.shields.io/github/followers/tamjid-ahsan?label=Followers&style=for-the-badge&color=00ADB5&logo=github" alt="Followers" />
