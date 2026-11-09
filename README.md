@@ -150,7 +150,7 @@
 
 - 🔭 I’m currently working on: *Improving*
 - 🌱 I’m currently learning: *Everything*
-- 💬 Ask me about: *JavaScript, Python, API development, or algorithms*
+- 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,gcp,aws,docker,kafka,javascript" />
 - 📫 How to reach me: *Via LinkedIn or Email above*
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,gcp,aws,docker,kafka" />
+
