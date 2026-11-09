@@ -41,20 +41,25 @@
 
 <div align="center">
 
-  <!-- Streak Stats (High uptime service) -->
-  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Interactive Activity Graph (Rock solid uptime) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamjid-ahsan&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 
-  <br /><br />
+  <br/><br/>
 
-  <!-- GitHub Readme Stats (Simplified parameters to avoid timeouts) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tamjid-ahsan&show_icons=true&theme=tokyonight&hide_border=true" alt="Tamjid's GitHub Stats" />
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tamjid-ahsan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
-  <br /><br />
+  <br/><br/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid-ahsan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Bulletproof Shields.io Live Stats (Direct GitHub API via Shields - Never hits rate limit crashes) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/tamjid-ahsan?label=Followers&style=for-the-badge&color=00ADB5&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=00ADB5&label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftamjid-ahsan&style=for-the-badge&logo=github" alt="Total Gists" />
+  </p>
 
 </div>
+
 
 ---
 
