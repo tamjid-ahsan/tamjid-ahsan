@@ -1,4 +1,4 @@
-name: Generate GitHub Achievements
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -9,16 +9,21 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Achievements SVG
-        uses: lowlighter/metrics@latest
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          filename: trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          config_timezone: Asia/Dhaka
+          github_user_name: tamjid-ahsan
+          outputs: |
+            snake.svg
+            snake-dark.svg?palette=github-dark
+
+      - name: Push Snake SVG to main
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: main
+          keep_files: true
