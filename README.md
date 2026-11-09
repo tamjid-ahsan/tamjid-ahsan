@@ -41,7 +41,13 @@
 <div align="center">
 
   <!-- Interactive Activity Graph (Rock solid uptime) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamjid-ahsan&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamjid-ahsan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Tamjid's Activity Graph" />
+  </div>
+
+<div align="center">
+  <img src="https://githubcard.com/tamjid-ahsan.svg" width="100%" alt="Activity Card..." />
+</div>
 
   <br/><br/>
 
