@@ -262,16 +262,17 @@
 
 <div align="center">
 
-  ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-  ![ASUS](https://img.shields.io/badge/asus-%23000080.svg?style=for-the-badge&logo=asus&logoColor=white)
-  ![Lenovo](https://img.shields.io/badge/lenovo-%23E2231A.svg?style=for-the-badge&logo=lenovo&logoColor=white&logoSize=auto)
-  ![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)
-  ![Razer Badge](https://img.shields.io/badge/Razer-0F0?logo=razer&logoColor=000&style=for-the-badge)
-  ![HP Badge](https://img.shields.io/badge/HP-0096D6?logo=hp&logoColor=fff&style=for-the-badge)
-  ![Samsung Badge](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=fff&style=for-the-badge)
-  ![Google Badge](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
-  ![Audio-Technica Badge](https://img.shields.io/badge/Audio--Technica-000?logo=audiotechnica&logoColor=fff&style=for-the-badge)
-  ![Bose Badge](https://img.shields.io/badge/Bose-000?logo=bose&logoColor=fff&style=for-the-badge)
-  ![Subaru Badge](https://img.shields.io/badge/Subaru-013C74?logo=subaru&logoColor=fff&style=for-the-badge)
-  ![Chevrolet Badge](https://img.shields.io/badge/Chevrolet-CD9834?logo=chevrolet&logoColor=fff&style=for-the-badge)
+  ![Apple](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white&logoSize=auto)
+  ![ASUS](https://img.shields.io/badge/-%23000080.svg?style=for-the-badge&logo=asus&logoColor=white&logoSize=auto)
+  ![Lenovo](https://img.shields.io/badge/-%23E2231A.svg?style=for-the-badge&logo=lenovo&logoColor=white&logoSize=auto)
+  ![Alienware](https://img.shields.io/badge/-%23541BAE.svg?style=for-the-badge&logo=Alienware&logoColor=white&logoSize=auto)
+  ![Razer Badge](https://img.shields.io/badge/-0F0?logo=razer&color=black&style=for-the-badge&logoSize=auto)
+  ![HP Badge](https://img.shields.io/badge/-0096D6?logo=hp&logoColor=fff&style=for-the-badge&logoSize=auto)
+  ![Samsung Badge](https://img.shields.io/badge/-1428A0?logo=samsung&logoColor=fff&style=for-the-badge&logoSize=auto)
+  ![Google Badge](https://img.shields.io/badge/Pixel-4285F4?logo=google&logoColor=fff&style=for-the-badge&logoSize=auto)
+  ![Audio-Technica Badge](https://img.shields.io/badge/-000?logo=audiotechnica&logoColor=fff&style=for-the-badge&logoSize=auto)
+  ![Bose Badge](https://img.shields.io/badge/-000?logo=bose&logoColor=fff&style=for-the-badge&logoSize=auto)
+
+  ![Subaru Badge](https://img.shields.io/badge/Subaru-013C74?logo=subaru&logoColor=fff&style=for-the-badge&logoSize=auto)
+  ![Chevrolet Badge](https://img.shields.io/badge/Chevrolet-CD9834?logo=chevrolet&logoColor=fff&style=for-the-badge&logoSize=auto)
 </div>
