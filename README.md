@@ -111,6 +111,7 @@
 
   ![DeepSeek Badge](https://img.shields.io/badge/DeepSeek-5786FE?logo=deepseek&logoColor=fff&style=for-the-badge)
   ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+  ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjEuNjggMS43NSAxNi42NSAxNi41Ij48cGF0aCBkPSJNMTEuMjQ4IDE4LjI1cS0uODI1IDAtMS41NjgtLjMxNGE0LjMgNC4zIDAgMCAxLTEuMzItLjg3NCA0IDQgMCAwIDEtMS4zMDQuMjE0IDQgNCAwIDAgMS0yLjA0Ni0uNTQ0IDQuMjcgNC4yNyAwIDAgMS0xLjUxOC0xLjQ4NSA0IDQgMCAwIDEtLjU2LTIuMDk1cTAtLjQ4LjEzMS0xLjA0QTQuNCA0LjQgMCAwIDEgMi4wNCAxMC43MWE0LjA3IDQuMDcgMCAwIDEgLjAxNy0zLjQgNC4yIDQuMiAwIDAgMSAxLjA1Ni0xLjQxOCAzLjggMy44IDAgMCAxIDEuNi0uODQyIDMuOSAzLjkgMCAwIDEgLjc2LTEuNjgzcS41OTMtLjc1OSAxLjQ1MS0xLjE4OGE0LjA0IDQuMDQgMCAwIDEgMS44MzItLjQyOXEuODI1IDAgMS41NjcuMzEzLjc0Mi4zMTQgMS4zMi44NzVhNCA0IDAgMCAxIDEuMzA0LS4yMTVxMS4xMDYgMCAyLjA0Ni41NDVhNC4xNCA0LjE0IDAgMCAxIDEuNTAxIDEuNDg1cS41NzguOTQxLjU3OCAyLjA5NSAwIC40OC0uMTMyIDEuMDQuNjYuNjEgMS4wMjMgMS40MTkuMzYzLjc5Mi4zNjMgMS42NjYgMCAuODkyLS4zOCAxLjcxN2E0LjMgNC4zIDAgMCAxLTEuMDcyIDEuNDM1IDMuOCAzLjggMCAwIDEtMS41ODQuODI1IDMuOCAzLjggMCAwIDEtLjc3NSAxLjY4MyA0LjA2IDQuMDYgMCAwIDEtMS40MzYgMS4xODggNC4wNCA0LjA0IDAgMCAxLTEuODMyLjQyOW0tNC4wNzYtMi4wNjJxLjgyNSAwIDEuNDM1LS4zNDdsMy4xMDMtMS43ODJhLjM2LjM2IDAgMCAwIC4xNjQtLjMxM3YtMS40Mkw3Ljg4MSAxNC42MmEuNjcuNjcgMCAwIDEtLjcyNiAwbC0zLjExOC0xLjc5OGEuNS41IDAgMCAxLS4wMTcuMTE1di4xOThxMCAuODQxLjM5NiAxLjU1MS40MTMuNjkzIDEuMTM5IDEuMDg5YTMuMiAzLjIgMCAwIDAgMS42MTcuNDEybS4xNjUtMi42OWEuNC40IDAgMCAwIC4xODEuMDVxLjA4MyAwIC4xNjUtLjA1bDEuMjM4LS43MS0zLjk3Ny0yLjMxYS43LjcgMCAwIDEtLjM2My0uNjQzdi0zLjU4cS0uODI1LjM2Mi0xLjMyIDEuMTIyYTIuOSAyLjkgMCAwIDAtLjQ5NSAxLjY1cTAgLjgwOS40MTMgMS41NS40MTIuNzQzIDEuMDcyIDEuMTIzem0zLjkxIDMuNjYzcS44NzUgMCAxLjU4NS0uMzk2YTIuOTYgMi45NiAwIDAgMCAxLjUzNC0yLjY0di0zLjU2NGEuMzIuMzIgMCAwIDAtLjE2NS0uMjk3bC0xLjI1NC0uNzI2djQuNjA0YS43LjcgMCAwIDEtLjM2My42NDNsLTMuMTE5IDEuNzk5YTMgMyAwIDAgMCAxLjc4My41NzdtLjYyNy02LjAzOVY4Ljg3OEwxMC4wMSA3LjgyMiA4LjEyOSA4Ljg3OHYyLjI0NGwxLjg4MSAxLjA1NnpNNy4wNTcgNS44NTlhLjcuNyAwIDAgMSAuMzYzLS42NDRsMy4xMTktMS43OThhMyAzIDAgMCAwLTEuNzgyLS41NzhxLS44NzQgMC0xLjU4NC4zOTZBMi45NiAyLjk2IDAgMCAwIDYuMDUgNC4zMjRhMy4wNyAzLjA3IDAgMCAwLS4zOTYgMS41NTF2My41NDdxMCAuMTk5LjE2NS4zMTRsMS4yMzcuNzI2em04LjM4MyA3Ljg4N3EuODI1LS4zNjQgMS4zMDMtMS4xMjMuNDk1LS43NTguNDk1LTEuNjVhMy4xNSAzLjE1IDAgMCAwLS40MTItMS41NXEtLjQxMy0uNzQzLTEuMDczLTEuMTIzbC0zLjA4Ni0xLjc4MnEtLjA5OS0uMDY1LS4xODEtLjA0OWEuMy4zIDAgMCAwLS4xNjUuMDVsLTEuMjM4LjY5MiAzLjk5MyAyLjMyN2EuNi42IDAgMCAxIC4yNjQuMjY0LjY0LjY0IDAgMCAxIC4xLjM2M3ptLTMuMzE3LTguMzgyYS42My42MyAwIDAgMSAuNzI2IDBsMy4xMzUgMS44MzF2LS4yOTdxMC0uNzkyLS4zOTYtMS41MDFhMi44NiAyLjg2IDAgMCAwLTEuMTA1LTEuMTU1cS0uNzEtLjQzLTEuNjUtLjQzLS44MjUgMC0xLjQzNi4zNDdMOC4yOTQgNS45NDFhLjM2LjM2IDAgMCAwLS4xNjUuMzE0djEuNDE4eiIvPjwvc3ZnPg==" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
@@ -121,6 +122,9 @@
 
 #### 🔗 LLM Frameworks & RAG Architecture
 <p align="left">
+
+  ![Langflow](https://img.shields.io/badge/langflow-%230066CC.svg?style=for-the-badge&logo=langflow&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -130,10 +134,12 @@
 
 #### 🔍 Vector Databases & Semantic Search
 <p align="left">
+
+  ![DuckDB](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
+  ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <!-- <img src="https://img.shields.io/badge/Weaviate-00D47E?style=for-the-badge&logo=weaviate&logoColor=black" alt="Weaviate" /> -->
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
 
@@ -184,6 +190,7 @@
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![Shields.io Badge](https://img.shields.io/badge/Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 </p>
 
 #### IDEs
@@ -201,7 +208,7 @@
 ![VSCodium](https://img.shields.io/badge/VSCodium-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Zed](https://img.shields.io/badge/zedindustries-%23084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
-
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 </p>
 
 ---
