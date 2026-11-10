@@ -24,6 +24,7 @@
 ### 🛠️ Tech Stack & Architecture Toolkit
 
 #### 💻 Programming/Scripting  Languages
+
 <p align="left">
 
   ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,6 +45,7 @@
 </p>
 
 #### ☁️ Cloud Platforms & Architecture
+
 <p align="left">
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMTEyIDMwNSA3MyI+PHBhdGggZmlsbD0iI0ZGOTkwMCIgZD0iTTI3My41IDE0My43QzI0MC42IDE2OCAxOTIuOCAxODAuOSAxNTEuNyAxODAuOUM5NC4xIDE4MC45IDQyLjIgMTU5LjYgMyAxMjQuMmMtMy4xLTIuOC0uMy02LjYgMy40LTQuNCA0Mi40IDI0LjYgOTQuNyAzOS41IDE0OC44IDM5LjUgMzYuNSAwIDc2LjYtNy42IDExMy41LTIzLjIgNS41LTIuNSAxMC4yIDMuNiA0LjggNy42em0xMy43LTE1LjZjLTQuMi01LjQtMjcuOC0yLjYtMzguNS0xLjMtMy4yLjQtMy43LTIuNC0uOC00LjUgMTguOC0xMy4yIDQ5LjctOS40IDUzLjMtNSAzLjYgNC41LTEgMzUuNC0xOC42IDUwLjItMi43IDIuMy01LjMgMS4xLTQuMS0xLjkgNC05LjkgMTIuOS0zMi4yIDguNy0zNy41eiIvPjwvc3ZnPg==&logoColor=white" alt="AWS" />
@@ -57,6 +59,7 @@
 </p>
 
 #### 🔄 Data Engineering & Pipelines
+
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
@@ -67,6 +70,7 @@
 </p>
 
 #### 🧠 Data Science, ML & Analytics
+
 <p align="left">
 
   ![Plotly](https://img.shields.io/badge/plotly-%237A76FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -83,6 +87,7 @@
 </p>
 
 #### 🗄️ Databases & Storage
+
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -92,6 +97,7 @@
 </p>
 
 #### 🐳 DevOps, Containers & Orchestration
+
 <p align="left">
 
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -107,6 +113,7 @@
 </p>
 
 #### 🤖 Artificial Intelligence & Generative AI
+
 <p align="left">
 
   ![DeepSeek Badge](https://img.shields.io/badge/DeepSeek-5786FE?logo=deepseek&logoColor=fff&style=for-the-badge)
@@ -121,6 +128,7 @@
 </p>
 
 #### 🔗 LLM Frameworks & RAG Architecture
+
 <p align="left">
 
   ![Langflow](https://img.shields.io/badge/langflow-%230066CC.svg?style=for-the-badge&logo=langflow&logoColor=white)
@@ -133,6 +141,7 @@
 </p>
 
 #### 🔍 Vector Databases & Semantic Search
+
 <p align="left">
 
   ![DuckDB](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -144,6 +153,7 @@
 </p>
 
 #### ⚙️ MLOps & Model Evaluation
+
 <p align="left">
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
@@ -153,6 +163,7 @@
 </p>
 
 #### Tools
+
 <p align="left">
 
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
@@ -194,6 +205,7 @@
 </p>
 
 #### IDEs
+
 <p align="left">
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
