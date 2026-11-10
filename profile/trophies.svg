@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="605" height="145" viewBox="0 0 605 145">
+<style>
+  @media (prefers-color-scheme: light) {
+    rect { fill: #f7f8fa; stroke: #e1e4e8; }
+    text { fill: #24292e; }
+  }
+</style>
+
+    <g transform="translate(10, 10)">
+      <rect width="135" height="125" rx="12" fill="#16161e" stroke="#292e42" stroke-width="1.5" />
+      <g transform="translate(51, 16)">
+        <path d="M7 4h18v4a9 9 0 0 1-9 9 9 9 0 0 1-9-9V4zm-3 2H1a1 1 0 0 0-1 1 6 6 0 0 0 6 6h1V9a7 7 0 0 1-3-3zm24 0h-3a7 7 0 0 1-3 3v4h1a6 6 0 0 0 6-6 1 1 0 0 0-1-1zM14 20h4v4h-4v-4zm-4 4h12v2H10v-2z" fill="#7aa2f7"/>
+      </g>
+      <circle cx="115" cy="20" r="11" fill="#7aa2f7" opacity="0.15"/>
+      <text x="115" y="24" fill="#7aa2f7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="bold" text-anchor="middle">S</text>
+      <text x="67" y="78" fill="#c0caf5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Repositories</text>
+      <text x="67" y="98" fill="#787c99" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500" text-anchor="middle">29 Repos</text>
+    </g>
+    
+    <g transform="translate(160, 10)">
+      <rect width="135" height="125" rx="12" fill="#16161e" stroke="#292e42" stroke-width="1.5" />
+      <g transform="translate(51, 16)">
+        <path d="M7 4h18v4a9 9 0 0 1-9 9 9 9 0 0 1-9-9V4zm-3 2H1a1 1 0 0 0-1 1 6 6 0 0 0 6 6h1V9a7 7 0 0 1-3-3zm24 0h-3a7 7 0 0 1-3 3v4h1a6 6 0 0 0 6-6 1 1 0 0 0-1-1zM14 20h4v4h-4v-4zm-4 4h12v2H10v-2z" fill="#e0af68"/>
+      </g>
+      <circle cx="115" cy="20" r="11" fill="#e0af68" opacity="0.15"/>
+      <text x="115" y="24" fill="#e0af68" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="bold" text-anchor="middle">A</text>
+      <text x="67" y="78" fill="#c0caf5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Stars Earned</text>
+      <text x="67" y="98" fill="#787c99" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500" text-anchor="middle">24 Stars</text>
+    </g>
+    
+    <g transform="translate(310, 10)">
+      <rect width="135" height="125" rx="12" fill="#16161e" stroke="#292e42" stroke-width="1.5" />
+      <g transform="translate(51, 16)">
+        <path d="M7 4h18v4a9 9 0 0 1-9 9 9 9 0 0 1-9-9V4zm-3 2H1a1 1 0 0 0-1 1 6 6 0 0 0 6 6h1V9a7 7 0 0 1-3-3zm24 0h-3a7 7 0 0 1-3 3v4h1a6 6 0 0 0 6-6 1 1 0 0 0-1-1zM14 20h4v4h-4v-4zm-4 4h12v2H10v-2z" fill="#bb9af7"/>
+      </g>
+      <circle cx="115" cy="20" r="11" fill="#bb9af7" opacity="0.15"/>
+      <text x="115" y="24" fill="#bb9af7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="bold" text-anchor="middle">A</text>
+      <text x="67" y="78" fill="#c0caf5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Followers</text>
+      <text x="67" y="98" fill="#787c99" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500" text-anchor="middle">10 Users</text>
+    </g>
+    
+    <g transform="translate(460, 10)">
+      <rect width="135" height="125" rx="12" fill="#16161e" stroke="#292e42" stroke-width="1.5" />
+      <g transform="translate(51, 16)">
+        <path d="M7 4h18v4a9 9 0 0 1-9 9 9 9 0 0 1-9-9V4zm-3 2H1a1 1 0 0 0-1 1 6 6 0 0 0 6 6h1V9a7 7 0 0 1-3-3zm24 0h-3a7 7 0 0 1-3 3v4h1a6 6 0 0 0 6-6 1 1 0 0 0-1-1zM14 20h4v4h-4v-4zm-4 4h12v2H10v-2z" fill="#73daca"/>
+      </g>
+      <circle cx="115" cy="20" r="11" fill="#73daca" opacity="0.15"/>
+      <text x="115" y="24" fill="#73daca" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="bold" text-anchor="middle">SS</text>
+      <text x="67" y="78" fill="#c0caf5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Experience</text>
+      <text x="67" y="98" fill="#787c99" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="500" text-anchor="middle">6+ Years</text>
+    </g>
+    
+</svg>
