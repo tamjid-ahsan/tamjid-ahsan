@@ -33,7 +33,8 @@
   ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   
@@ -105,13 +106,14 @@
 #### 🤖 Artificial Intelligence & Generative AI
 <p align="left">
 
+  ![DeepSeek Badge](https://img.shields.io/badge/DeepSeek-5786FE?logo=deepseek&logoColor=fff&style=for-the-badge)
   ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yOCAxMC42NmEtNS44NyA1Ljg3IDAgMCAwLS41Mi00Ljk5IDYuMDIgNi4wMiAwIDAgMC01LjU1LTMuODUgNS44OCA1Ljg4IDAgMCAwLTMuNzQgMS40IDYuMDIgNi4wMiAwIDAgMC02Ljc3LjUyIDYuMDIgNi4wMiAwIDAgMC0zLjk1IDUuNjMgNS44NyA1Ljg3IDAgMCAwIC41MiA1IDYuMDIgNi4wMiAwIDAgMCA1LjU1IDMuODQgNS44OCA1Ljg4IDAgMCAwIDMuNzQtMS40IDYuMDIgNi4wMiAwIDAgMCA2Ljc3LS41MiA2LjAyIDYuMDIgMCAwIDAgMy45NS01LjYzWiIvPjwvc3ZnPg==&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjEuNjggMS43NSAxNi42NSAxNi41Ij48cGF0aCBkPSJNMTEuMjQ4IDE4LjI1cS0uODI1IDAtMS41NjgtLjMxNGE0LjMgNC4zIDAgMCAxLTEuMzItLjg3NCA0IDQgMCAwIDEtMS4zMDQuMjE0IDQgNCAwIDAgMS0yLjA0Ni0uNTQ0IDQuMjcgNC4yNyAwIDAgMS0xLjUxOC0xLjQ4NSA0IDQgMCAwIDEtLjU2LTIuMDk1cTAtLjQ4LjEzMS0xLjA0QTQuNCA0LjQgMCAwIDEgMi4wNCAxMC43MWE0LjA3IDQuMDcgMCAwIDEgLjAxNy0zLjQgNC4yIDQuMiAwIDAgMSAxLjA1Ni0xLjQxOCAzLjggMy44IDAgMCAxIDEuNi0uODQyIDMuOSAzLjkgMCAwIDEgLjc2LTEuNjgzcS41OTMtLjc1OSAxLjQ1MS0xLjE4OGE0LjA0IDQuMDQgMCAwIDEgMS44MzItLjQyOXEuODI1IDAgMS41NjcuMzEzLjc0Mi4zMTQgMS4zMi44NzVhNCA0IDAgMCAxIDEuMzA0LS4yMTVxMS4xMDYgMCAyLjA0Ni41NDVhNC4xNCA0LjE0IDAgMCAxIDEuNTAxIDEuNDg1cS41NzguOTQxLjU3OCAyLjA5NSAwIC40OC0uMTMyIDEuMDQuNjYuNjEgMS4wMjMgMS40MTkuMzYzLjc5Mi4zNjMgMS42NjYgMCAuODkyLS4zOCAxLjcxN2E0LjMgNC4zIDAgMCAxLTEuMDcyIDEuNDM1IDMuOCAzLjggMCAwIDEtMS41ODQuODI1IDMuOCAzLjggMCAwIDEtLjc3NSAxLjY4MyA0LjA2IDQuMDYgMCAwIDEtMS40MzYgMS4xODggNC4wNCA0LjA0IDAgMCAxLTEuODMyLjQyOW0tNC4wNzYtMi4wNjJxLjgyNSAwIDEuNDM1LS4zNDdsMy4xMDMtMS43ODJhLjM2LjM2IDAgMCAwIC4xNjQtLjMxM3YtMS40Mkw3Ljg4MSAxNC42MmEuNjcuNjcgMCAwIDEtLjcyNiAwbC0zLjExOC0xLjc5OGEuNS41IDAgMCAxLS4wMTcuMTE1di4xOThxMCAuODQxLjM5NiAxLjU1MS40MTMuNjkzIDEuMTM5IDEuMDg5YTMuMiAzLjIgMCAwIDAgMS42MTcuNDEybS4xNjUtMi42OWEuNC40IDAgMCAwIC4xODEuMDVxLjA4MyAwIC4xNjUtLjA1bDEuMjM4LS43MS0zLjk3Ny0yLjMxYS43LjcgMCAwIDEtLjM2My0uNjQzdi0zLjU4cS0uODI1LjM2Mi0xLjMyIDEuMTIyYTIuOSAyLjkgMCAwIDAtLjQ5NSAxLjY1cTAgLjgwOS40MTMgMS41NS40MTIuNzQzIDEuMDcyIDEuMTIzem0zLjkxIDMuNjYzcS44NzUgMCAxLjU4NS0uMzk2YTIuOTYgMi45NiAwIDAgMCAxLjUzNC0yLjY0di0zLjU2NGEuMzIuMzIgMCAwIDAtLjE2NS0uMjk3bC0xLjI1NC0uNzI2djQuNjA0YS43LjcgMCAwIDEtLjM2My42NDNsLTMuMTE5IDEuNzk5YTMgMyAwIDAgMCAxLjc4My41NzdtLjYyNy02LjAzOVY4Ljg3OEwxMC4wMSA3LjgyMiA4LjEyOSA4Ljg3OHYyLjI0NGwxLjg4MSAxLjA1NnpNNy4wNTcgNS44NTlhLjcuNyAwIDAgMSAuMzYzLS42NDRsMy4xMTktMS43OThhMyAzIDAgMCAwLTEuNzgyLS41NzhxLS44NzQgMC0xLjU4NC4zOTZBMi45NiAyLjk2IDAgMCAwIDYuMDUgNC4zMjRhMy4wNyAzLjA3IDAgMCAwLS4zOTYgMS41NTF2My41NDdxMCAuMTk5LjE2NS4zMTRsMS4yMzcuNzI2em04LjM4MyA3Ljg4N3EuODI1LS4zNjQgMS4zMDMtMS4xMjMuNDk1LS43NTguNDk1LTEuNjVhMy4xNSAzLjE1IDAgMCAwLS40MTItMS41NXEtLjQxMy0uNzQzLTEuMDczLTEuMTIzbC0zLjA4Ni0xLjc4MnEtLjA5OS0uMDY1LS4xODEtLjA0OWEuMy4zIDAgMCAwLS4xNjUuMDVsLTEuMjM4LjY5MiAzLjk5MyAyLjMyN2EuNi42IDAgMCAxIC4yNjQuMjY0LjY0LjY0IDAgMCAxIC4xLjM2M3ptLTMuMzE3LTguMzgyYS42My42MyAwIDAgMSAuNzI2IDBsMy4xMzUgMS44MzF2LS4yOTdxMC0uNzkyLS4zOTYtMS41MDFhMi44NiAyLjg2IDAgMCAwLTEuMTA1LTEuMTU1cS0uNzEtLjQzLTEuNjUtLjQzLS44MjUgMC0xLjQzNi4zNDdMOC4yOTQgNS45NDFhLjM2LjM2IDAgMCAwLS4xNjUuMzE0djEuNDE4eiIvPjwvc3ZnPg==&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
 </p>
 
 #### 🔗 LLM Frameworks & RAG Architecture
@@ -177,6 +179,8 @@
 ![Starship](https://img.shields.io/badge/starship-%23DD0B78.svg?style=for-the-badge&logo=starship&logoColor=white)
 ![Surfshark](https://img.shields.io/badge/surfshark-%231EBFBF.svg?style=for-the-badge&logo=surfshark&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+![Shields.io Badge](https://img.shields.io/badge/Shields.io-000?logo=shieldsdotio&logoColor=fff&style=for-the-badge)
 </p>
 
 #### IDEs
@@ -257,4 +261,12 @@
   ![ASUS](https://img.shields.io/badge/asus-%23000080.svg?style=for-the-badge&logo=asus&logoColor=white)
   ![Lenovo](https://img.shields.io/badge/lenovo-%23E2231A.svg?style=for-the-badge&logo=lenovo&logoColor=white&logoSize=auto)
   ![Alienware](https://img.shields.io/badge/Alienware-%23541BAE.svg?style=for-the-badge&logo=alienware&logoColor=white)
+  ![Razer Badge](https://img.shields.io/badge/Razer-0F0?logo=razer&logoColor=000&style=for-the-badge)
+  ![HP Badge](https://img.shields.io/badge/HP-0096D6?logo=hp&logoColor=fff&style=for-the-badge)
+  ![Samsung Badge](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=fff&style=for-the-badge)
+  ![Google Badge](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
+  ![Audio-Technica Badge](https://img.shields.io/badge/Audio--Technica-000?logo=audiotechnica&logoColor=fff&style=for-the-badge)
+  ![Bose Badge](https://img.shields.io/badge/Bose-000?logo=bose&logoColor=fff&style=for-the-badge)
+  ![Subaru Badge](https://img.shields.io/badge/Subaru-013C74?logo=subaru&logoColor=fff&style=for-the-badge)
+  ![Chevrolet Badge](https://img.shields.io/badge/Chevrolet-CD9834?logo=chevrolet&logoColor=fff&style=for-the-badge)
 </div>
