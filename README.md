@@ -16,11 +16,14 @@
 
 </div>
 
+[![](https://badgen.net/static/coverage/not%20much/F73)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/maintainer%20turned%20woodworker/not%20yet/3C1)](https://github.com/sebmestrallet/absurd-badges)
+
 ---
 
 ### 🛠️ Tech Stack & Architecture Toolkit
 
-#### 💻 Programming Languages
+#### 💻 Programming/Scripting  Languages
 <p align="left">
 
   ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
