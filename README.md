@@ -17,7 +17,7 @@
 </div>
 
 [![](https://badgen.net/static/coverage/not%20much/F73)](https://github.com/sebmestrallet/absurd-badges)
-[![](https://badgen.net/static/maintainer%20turned%20woodworker/not%20yet/3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/SE%20turned%20woodworker/not%20yet/3C1)](https://github.com/sebmestrallet/absurd-badges)
 
 ---
 
