@@ -149,6 +149,6 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add profile/*.svg
-          git commit -m "chore: update profile SVGs (trophies, snake, cards) [skip ci]" || exit 0
+          git commit -m "chore: update profile assets [skip ci]" || exit 0
           git pull --rebase origin main
           git push origin main
