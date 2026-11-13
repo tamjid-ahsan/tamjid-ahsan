@@ -235,7 +235,7 @@
   </p>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true" width="50%" alt="Tamjid's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=tamjid-ahsan&theme=tokyonight&hide_border=true&refresh=1" width="50%" alt="Tamjid's Streak Stats" />
 </div>
 
 <div align="center">
