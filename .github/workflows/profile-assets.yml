@@ -47,6 +47,13 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=4&theme=nightowl
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats@v2
+        with:
+          options: user=tamjid-ahsan&theme=tokyonight&hide_border=true
+          path: profile/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate Pin Card
       #   uses: stats-organization/github-readme-stats-action@v2
