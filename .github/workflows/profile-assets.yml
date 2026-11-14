@@ -46,7 +46,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=4&theme=nightowl
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=nightowl
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
@@ -73,6 +73,7 @@ jobs:
       - name: Generate Custom Trophies
         env:
           GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
         run: |
           python3 - << 'EOF'
           import os
@@ -80,7 +81,7 @@ jobs:
           import urllib.request
           from datetime import datetime
 
-          username = "tamjid-ahsan"
+          username = os.environ["GH_USER"]
           token = os.environ["GH_TOKEN"]
 
           headers = {
