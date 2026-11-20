@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/tamjidahsan" target="_blank"><img src="https://img.shields.io/badge//tamjidahsan-0A66C2?style=social&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxjaXJjbGUgY3g9IjUuMiIgY3k9IjUuMiIgcj0iMi4yIiBmaWxsPSIjRkZGRkZGIi8+PHJlY3QgeD0iMy41IiB5PSI5LjUiIHdpZHRoPSIzLjQiIGhlaWdodD0iMTEuNSIgZmlsbD0iI0ZGRkZGRiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMi40IDkuNWgtMy40djExLjVoMy40di02YzAtMS43LjktMy4yIDIuNy0zLjIgMS43IDAgMi40IDEuMyAyLjQgMy4ydjZIMjF2LTYuNWMwLTMuNS0xLjktNS4zLTQuNS01LjMtMi4xIDAtMy4yIDEuMi0zLjcgMi4xbC0uNC0xLjh6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="mailto:tamz888@yahoo.com"><img src="https://img.shields.io/badge/tamz888@yahoo.com-D14836?style=social&logo=gmail" alt="Email" /></a>
+    <a href="mailto:hello@tamjidahsan.com"><img src="https://img.shields.io/badge/hello@tamjidahsan.com-D14836?style=social&logo=gmail" alt="Email" /></a>
 </p>
 
 </div>
@@ -258,7 +258,7 @@
 - 🔭 I’m currently working on: *Self Improvement*
 - 🌱 I’m currently learning: *Everything*
 - 💬 Ask me about: <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,gcp,aws,docker,kubernetes,typescript,apple,windows,linux,git,anaconda,latex,md,postgres,mongo,vscode,sublime&theme=dark"/>
-- 📫 How to reach me: *Via [LinkedIn](https://linkedin.com/in/tamjidahsan) or [mail](mailto:tamz888@yahoo.com)*
+- 📫 How to reach me: *Via [LinkedIn](https://linkedin.com/in/tamjidahsan) or [mail](mailto:hello@tamjidahsan.com)*
 
 ---
 
